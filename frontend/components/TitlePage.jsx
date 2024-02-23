@@ -1,6 +1,6 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
-import '../assets/css/TitlePage.css'; // Importing the CSS file
+import './TitlePage.css'; // Importing the CSS file
 import { FaFlag, FaGraduationCap } from 'react-icons/fa'; // Importing flag and graduation cap icons
 
 function TitlePage() {
